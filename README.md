@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Arni</h1>
-<h3 align="center">A passionate developer</h3>
+<h1 align="center">Heyyyyyy 👋, I'm Arni</h1>
+<h3 align="center">🧑🏻‍💻 A simple software engineer who loves learning</h3>
 
 - 📫 How to reach me **amirnilofari@gmail.com**
 
