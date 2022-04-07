@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arni</h1>
-<h3 align="center"></h3>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&color=006778&background=FF2C0000&multiline=true&lines=A+simple+software+engineer+who+loves+learning)](https://git.io/typing-svg)
 
 - 📫 How to reach me **amirnilofari@gmail.com**
