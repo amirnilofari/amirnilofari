@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&color=006778&background=FF2C0000&multiline=true&lines=A+simple+software+engineer)](https://git.io/typing-svg)
 
-- 📫 How to reach me **amirnilofari@gmail.com**
+- 📫 How to reach me **arniniloofari@gmail.com**
 
-- 📄 Know about my experiences [![resume Badge](https://img.shields.io/badge/arni-resume-orange)](https://drive.google.com/file/d/1CTXBlYytdYDCYBIaZORct41T8sYV3iUD/view?usp=sharing)
+- 📄 Know about my experiences [![resume Badge](https://www.linkedin.com/in/amirniloofari/)
 
 
 <h3 align="left">Connect with me:</h3>
