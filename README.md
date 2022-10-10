@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **arniniloofari@gmail.com**
 
-- 📄 Know about my experiences [![resume Badge](https://www.linkedin.com/in/amirniloofari/)]
+- 📄 Know about my experiences [![resume Badge](https://img.shields.io/badge/arni-resume-orange)](https://www.linkedin.com/in/amirniloofari)
 
 
 <h3 align="left">Connect with me:</h3>
